@@ -1,1 +1,1 @@
-# Spring3app
+# Aplicação didática com Spring Boot 3
